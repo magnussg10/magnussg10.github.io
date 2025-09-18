@@ -111,7 +111,7 @@
 </head>
 <body>
   <header>
-    <h1>GolfShoppen</h1>
+    <h1>Golf Butikken</h1>
     <nav>
       <ul>
         <li><a href="#forside">Forside</a></li>
@@ -122,22 +122,24 @@
   </header>
 
   <section class="hero" id="forside">
-    <h2>Velkommen til GolfShoppen<br>Alt til din golfoplevelse!</h2>
+    <h2>Velkommen til Golf Butikken<br>Alt til din golfoplevelse!</h2>
   </section>
 
   <section class="container" id="produkter">
     <h2>Produkter</h2>
     <div class="products">
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1519861531473-9200262188bf" alt="Golfkølle">
-        <h3>Golfkølle</h3>
-        <p>Topkvalitet kølle til præcise slag.</p>
+        <img src="<img width="2986" height="1499" alt="image" src="https://github.com/user-attachments/assets/584a21ea-b8cf-44f5-a4c5-1980df8d4f4c" />
+" alt="Golfkøller">
+        <h3>Golfkøller</h3>
+        <p>Topkvalitets køller.</p>
         <a href="#" class="btn">Køb nu</a>
       </div>
       <div class="product">
-        <img src="https://images.unsplash.com/photo-1587174486073-5cb45b7f27d4" alt="Golfbolde">
+        <img src="<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a8978e3-22ea-484b-b558-51a44c828833" />
+" alt="Golfbolde">
         <h3>Golfbolde</h3>
-        <p>Pakke med 12 professionelle golfbolde.</p>
+        <p>Et dusin golfbolde.</p>
         <a href="#" class="btn">Køb nu</a>
       </div>
       <div class="product">
