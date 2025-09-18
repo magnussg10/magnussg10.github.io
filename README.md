@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="da">
 <head>
   <meta charset="UTF-8">
@@ -17,21 +18,27 @@
     header {
       background: #006400;
       color: #fff;
-      padding: 15px;
+      padding: 15px 0;
+    }
+
+    header h1 {
       text-align: center;
+      margin-bottom: 10px;
     }
 
     nav ul {
       list-style: none;
       display: flex;
       justify-content: center;
-      gap: 20px;
+      align-items: center;
+      gap: 30px;
     }
 
     nav a {
       color: white;
       text-decoration: none;
       font-weight: bold;
+      font-size: 1.1rem;
     }
 
     nav a:hover {
@@ -39,7 +46,7 @@
     }
 
     .hero {
-      background: url("https://images.unsplash.com/photo-1508780709619-79562169bc64") no-repeat center center/cover;
+      background: url("08b97e77-1074-4119-a659-b3849d298a14.png") no-repeat center center/cover;
       height: 60vh;
       display: flex;
       align-items: center;
@@ -129,17 +136,15 @@
     <h2>Produkter</h2>
     <div class="products">
       <div class="product">
-        <img src="<img width="2986" height="1499" alt="image" src="https://github.com/user-attachments/assets/584a21ea-b8cf-44f5-a4c5-1980df8d4f4c" />
-" alt="Golfkøller">
-        <h3>Golfkøller</h3>
-        <p>Topkvalitets køller.</p>
+        <img src="https://images.unsplash.com/photo-1519861531473-9200262188bf" alt="Golfkølle">
+        <h3>Golfkølle</h3>
+        <p>Topkvalitet kølle til præcise slag.</p>
         <a href="#" class="btn">Køb nu</a>
       </div>
       <div class="product">
-        <img src="<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/0a8978e3-22ea-484b-b558-51a44c828833" />
-" alt="Golfbolde">
+        <img src="https://images.unsplash.com/photo-1587174486073-5cb45b7f27d4" alt="Golfbolde">
         <h3>Golfbolde</h3>
-        <p>Et dusin golfbolde.</p>
+        <p>Pakke med 12 professionelle golfbolde.</p>
         <a href="#" class="btn">Køb nu</a>
       </div>
       <div class="product">
@@ -153,9 +158,9 @@
 
   <footer id="kontakt">
     <h2>Kontakt os</h2>
-    <p>Email: info@golfshoppen.dk</p>
+    <p>Email: info@golfbutikken.dk</p>
     <p>Telefon: +45 12 34 56 78</p>
-    <p>&copy; 2025 GolfShoppen</p>
+    <p>&copy; 2025 Golf Butikken</p>
   </footer>
 </body>
 </html>
